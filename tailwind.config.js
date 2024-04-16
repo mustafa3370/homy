@@ -28,9 +28,11 @@ module.exports = {
         },
         white: '#fff',
         pink: 'pink',
+        bg:'#D8DBD4',
+        stats:'#2C7865'
       },
       backgroundImage: {
-        hero: 'url("/src/assets/img/hero-bg.png")',
+        hero: 'url("/src/assets/img/hero-bg.jpg")',
         newsletter: 'url("/src/assets/img/newsletter.png")',
       },
       dropShadow: {
