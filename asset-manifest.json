@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/homy/static/css/main.8c6c833e.css",
-    "main.js": "/homy/static/js/main.8f5387a2.js",
+    "main.css": "/homy/static/css/main.4aa08b35.css",
+    "main.js": "/homy/static/js/main.7ec8319c.js",
     "static/media/hero-bg.jpg": "/homy/static/media/hero-bg.bd1eb0cc923a0dcb40e3.jpg",
+    "static/media/newsletter.png": "/homy/static/media/newsletter.bdda13a7dbbf0cf2cb56.png",
     "static/media/testimonial.png": "/homy/static/media/testimonial.0ab513ce6b847daf98c0.png",
     "static/media/features-1.png": "/homy/static/media/features-1.2014423d50a4f39079ea.png",
     "static/media/features-2.png": "/homy/static/media/features-2.92c06926402d857d61c0.png",
@@ -24,12 +25,13 @@
     "static/media/avatar-4.png": "/homy/static/media/avatar-4.8247eafdc9e6398e48d2.png",
     "static/media/avatar-1.png": "/homy/static/media/avatar-1.aabbb166b2124eb5f652.png",
     "static/media/product-9.png": "/homy/static/media/product-9.88d9b287cf8cdba409c3.png",
+    "static/media/logo.svg": "/homy/static/media/logo.83be04e4036b8d526ac437f5a3c20691.svg",
     "index.html": "/homy/index.html",
-    "main.8c6c833e.css.map": "/homy/static/css/main.8c6c833e.css.map",
-    "main.8f5387a2.js.map": "/homy/static/js/main.8f5387a2.js.map"
+    "main.4aa08b35.css.map": "/homy/static/css/main.4aa08b35.css.map",
+    "main.7ec8319c.js.map": "/homy/static/js/main.7ec8319c.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c6c833e.css",
-    "static/js/main.8f5387a2.js"
+    "static/css/main.4aa08b35.css",
+    "static/js/main.7ec8319c.js"
   ]
 }
